@@ -8,7 +8,7 @@ Download latest builds from https://bamboo.pidgin.im/browse/EIONROBB-ICYQUE/late
 ### Manual Compiling ###
 Requires devel headers/libs for libpurple and libjson-glib [libglib2.0-dev, libjson-glib-dev and libpurple-dev]
 ```bash
-	git clone git://github.com/EionRobb/icyque.git
+	git clone git://github.com/aminogoule/icyque.git
 	cd icyque
 	make
 	sudo make install
